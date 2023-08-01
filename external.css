@@ -1,0 +1,34 @@
+
+/*h3{
+	size: 40px;
+	background-color: blue;
+}
+*{
+	font-family: cursive;
+}
+
+input[type]{
+	color: yellow;
+}
+input[type="text"]{
+	color: blue;
+}
+input[type="class"]{
+	color: red;
+}
+a[href="click here"]{
+	color: violet;
+}
+a:hover{
+	color: red;
+}
+
+a:link{
+	color: yellow;
+}*/
+body{
+	background-image: url('thub.jpeg');
+}
+
+
+
